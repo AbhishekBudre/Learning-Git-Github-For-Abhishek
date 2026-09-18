@@ -9,6 +9,8 @@
 
     <h1>Welcome to My Git Stash Practice</h1>
 
+    <h3>Currently Learning Git and GitHub</h3>
+
     <h2>My Name: Abhishek Budre</h2>
 
     <p>I am learning AWS and DevOps.</p>
